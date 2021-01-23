@@ -1,18 +1,15 @@
-Git Commands
+Git Buyruqlari
 ============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
 
 ___
 
-_A list of my commonly used Git commands_
+_Men GitHub va Git bilan ishlashda tez-tez foydalanadigan buyruqlarim_
 
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+*Mening loyihalarim haqida ma'lumot olmoqchimisiz, GitHub Accountimni kuzatib boring: https://github.com/eldasdev*
 
 --
 
-### Getting & Creating Projects
+### Boshlash & Loyihalar Yaratish
 
 | Command | Description |
 | ------- | ----------- |
